@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)"
+options: "9a1a92567da5ba281853eeb8aa848932366c22d4c906cd6a3183548b7eafb970"
+build_start_time: [1655740466, 168187141]
+build_end_time: [1655740473, 679677963]
+inputs:
+  "/Users/hudaib/Desktop/bootcamp/phase2/library_app/library_app/macos/Flutter/GeneratedPluginRegistrant.swift": [1655740446, 292254447]
+  "/Users/hudaib/Desktop/bootcamp/phase2/library_app/library_app/macos/Runner/AppDelegate.swift": [1652981494, 0]
+  "/Users/hudaib/Desktop/bootcamp/phase2/library_app/library_app/macos/Runner/MainFlutterWindow.swift": [1652981494, 0]
